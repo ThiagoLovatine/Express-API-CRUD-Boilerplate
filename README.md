@@ -1,3 +1,9 @@
-# Express-MongoDB-ElasticSearch-Api-Crud
+# API CRUD Boilerplate
 
-- npm run dev
+- Express
+- MongoDB
+- ElasticSearch
+- Minio
+- Socket.IO
+- Passport
+
