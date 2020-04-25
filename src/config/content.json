@@ -1,0 +1,8 @@
+{
+    "post": {
+        "geolocation": true
+    },
+    "video2": {
+        "geolocation": false
+    }
+}
