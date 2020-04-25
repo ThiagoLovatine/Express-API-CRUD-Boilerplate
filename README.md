@@ -1,9 +1,10 @@
 # Express API CRUD Boilerplate
 
 - Storage (Minio)
-- Auth (Passport)
+- Auth (Firebase)
 - Database (MongoDB)
 - Search (ElasticSearch)
+- Queues (Kue)
 - Push notifications (OneSignal)
 - Email notifications (NodeMailer)
 - Subcriptions (Stripe)
