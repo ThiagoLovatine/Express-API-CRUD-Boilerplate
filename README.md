@@ -1,9 +1,8 @@
-# API CRUD Boilerplate
+# Express API CRUD Boilerplate
 
-- Express
-- MongoDB
-- ElasticSearch
-- Minio
-- Socket.IO
-- Passport
+- Database ( MongoDB )
+- Search ( ElasticSearch )
+- Storage ( Minio )
+- Websockets ( Socket.IO )
+- Auth ( Passport )
 

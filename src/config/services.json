@@ -1,0 +1,17 @@
+{
+  "database": {
+    "mongodb": {}
+  },
+  "search": {
+    "elastic": {}
+  },
+  "storage": {
+    "minio": {}
+  },
+  "websockets": {
+    "socketio": {}
+  },
+  "auth": {
+    "passport": {}
+  }
+}
