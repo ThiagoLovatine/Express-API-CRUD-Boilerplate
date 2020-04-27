@@ -1,0 +1,24 @@
+{
+  "sizes": [
+    {
+      "name": "fullhd",
+      "width": 1920,
+      "height": 1920
+    },
+    {
+      "name": "medium",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "small",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "name": "thumb",
+      "width": 256,
+      "height": 256
+    }
+  ]
+}

@@ -6,7 +6,16 @@
     "elastic": {}
   },
   "storage": {
-    "minio": {}
+    "default": "minio",
+    "minio": {
+      "prefix" : "https://storage.varx.dev/",
+      "endPoint": "161.35.100.87",
+      "port": 9000,
+      "bucket": "mern",
+      "useSSL": false,
+      "accessKey": "mbi7rwR81lxPjj0S0P8E",
+      "secretKey": "LA7q31rMQEBtoU1pnu/7PCf6M32BS7Bj"
+    }
   },
   "websockets": {
     "socketio": {}

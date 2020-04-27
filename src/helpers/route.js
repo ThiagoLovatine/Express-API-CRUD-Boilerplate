@@ -11,6 +11,11 @@ class RouteHelper {
       next();
     }
   }
+
+  async loadPictureValidator(req, res, next, method) {
+    const validator = require("../validators/picture");
+    return validator[method](req, res, next);
+  }
 }
 
 module.exports = RouteHelper;
